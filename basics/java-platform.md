@@ -28,4 +28,4 @@
     * JEE: Java enterprise edition - Used for distributed systems, web etc.
 * Java is backwards compatible.
 
-
+* Java is a strongly typed language.
