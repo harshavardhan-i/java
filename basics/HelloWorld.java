@@ -15,10 +15,23 @@ public class HelloWorld{
         // Should have return type void.
         // 'main' should be all lower case.
         // Should take String array as parameter.
+
+    // Instance variable
+    String welcmMsg = null;
+
+    // Constructor
+    HelloWorld(){
+        welcmMsg = "Hello world!";
+    }
+
+    // Starting point for JVM
     public static void main(String[] args){
         
+        // Object declaration
+        HelloWorld obj = new HelloWorld();
+
         // Statements: Are instructions.
-        System.out.println("Hello world!");
+        System.out.println(obj.welcmMsg);
     
     }
 }

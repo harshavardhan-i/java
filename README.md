@@ -8,7 +8,7 @@
     * Initialization Blocks
 1. **Classes**
     * Static 
-    * Scope
+    * Scope, this, Stack, Frame
     * Garbage Collection
 
 
