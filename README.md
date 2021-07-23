@@ -10,6 +10,19 @@
     * Static 
     * Scope, this, Stack, Frame
     * Garbage Collection
+1. **Packages**
+    * Package 
+    * Import
+    * Classpath, JAR
+1. **Conventions and Primitives**
+    * Coding Style, Comments
+    * Literals, Conversions
+    * Primitives
+1. **Syntax**
+    * Conditional operators, Loops
+    * Labels, Enums
+1. **Strings**
+    * 
 
 
 * **API docs** - https://docs.oracle.com/en/java/javase/11/docs/api/index.html

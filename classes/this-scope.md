@@ -1,6 +1,7 @@
 ### Stack and Frames
  * Everytime a method is called a frame is created on top of stack
  * This frame holds method parameters and the variables declared within
+ * Frame holds primitive variable values and a reference to objects in heap
  * If instance variable is used within method JVM looks for it within frame if not found it goes to the object that invoked it within heap and looks for it
  * Once methods are executed they pop off the stack and within heap they are eligible for garbage collection
 
