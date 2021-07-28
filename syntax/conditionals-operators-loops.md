@@ -1,6 +1,7 @@
 ### Conditional Statements
 * if / else
 * switch statements
+    - Only takes literal or constants as case.
 
 ### Operators
 * Order of precedence

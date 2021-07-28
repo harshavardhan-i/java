@@ -22,7 +22,13 @@
     * Conditional operators, Loops
     * Labels, Enums
 1. **Strings**
-    * 
+    * Primitive behavior
+    * Immutable
+    * Pass by value
+1. **Inheritance**
+    * Composition & Chaining constructors
+    * Method overloading & overriding
+    * Final
 
 
 * **API docs** - https://docs.oracle.com/en/java/javase/11/docs/api/index.html
