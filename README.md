@@ -29,6 +29,10 @@
     * Composition & Chaining constructors
     * Method overloading & overriding
     * Final
+1. **Polymorphism**
+    * Dynamic method dispatching
+    * Objec typecasting
+    * The object class
 
 
 * **API docs** - https://docs.oracle.com/en/java/javase/11/docs/api/index.html
