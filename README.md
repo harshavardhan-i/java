@@ -33,6 +33,8 @@
     * Dynamic method dispatching
     * Objec typecasting
     * The object class
+1. **Abstract & Interface**
+1. 
 
 
 * **API docs** - https://docs.oracle.com/en/java/javase/11/docs/api/index.html
