@@ -1,7 +1,8 @@
 ## Java
 1. **Basics**
     * JDK, JRE, JVM, Java platform, Editions, Versions
-    * Hello World
+    * Literals, Conversions
+    * Primitives
 1. **Objects**
     * Stacks & Heaps
     * OOP, Objects, Primitive, Constructor
@@ -14,10 +15,6 @@
     * Package 
     * Import
     * Classpath, JAR
-1. **Conventions and Primitives**
-    * Coding Style, Comments
-    * Literals, Conversions
-    * Primitives
 1. **Syntax**
     * Conditional operators, Loops
     * Labels, Enums
