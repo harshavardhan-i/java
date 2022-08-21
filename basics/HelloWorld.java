@@ -8,12 +8,6 @@ public class HelloWorld{
     // Return type: Void here
     // Modifiers: Immediately to the left of return type. 
     // Order of modifier dosen't matter. static public, public static. 
-    // JVM start executing with the main method.
-    // Rules for defining main method:
-        // Modifiers for main should be public and static.
-        // Should have return type void.
-        // 'main' should be all lower case.
-        // Should take String array as parameter.
 
     // Instance variable
     String welcmMsg = null;
@@ -24,6 +18,11 @@ public class HelloWorld{
     }
 
     // Starting point for JVM
+    // Rules for defining main method:
+    // Modifiers for main should be public and static.
+    // Should have return type void.
+    // 'main' should be all lower case.
+    // Should take String array as parameter.
     public static void main(String[] args){
         
         // Object declaration

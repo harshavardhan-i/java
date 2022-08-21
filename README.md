@@ -1,8 +1,8 @@
 ## Java
 1. **Basics**
-    * JDK, JRE, JVM, Java platform, Editions, Versions
+    * JDK, JRE, JVM
+    * Data Types
     * Literals, Conversions
-    * Primitives
 1. **Objects**
     * Stacks & Heaps
     * OOP, Objects, Primitive, Constructor

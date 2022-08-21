@@ -1,10 +1,11 @@
 ### What is java
 * Interpreted, threaded and dynamic language 
 * Platform agnostic
+* Java is a strongly typed language.
 
 ### Java Platform
 * JVM: Java virtual machine - JDK includes JRE which in turn runs JVM.
-* API: application programming interface - Bundled java libraries that come with JDK.
+* API: Bundled java libraries that come with JDK.
 * APIs and JVM combined are called JRE.
 * Platform flow:
     1. Java source code converted to bytecode by java compiler.
@@ -22,4 +23,3 @@
     * JEE: Java enterprise edition - Used for distributed systems, web etc.
 * Java is backwards compatible.
 
-* Java is a strongly typed language.
