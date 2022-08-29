@@ -4,9 +4,11 @@
 * Java is a strongly typed language.
 
 ### Java Platform
-* JVM: Java virtual machine - JDK includes JRE which in turn runs JVM.
+* JDK includes JRE which in turn runs JVM
+    - JDK: Java Development Kit
+    - JRE: Java Runtime environment, API + JVM
+    - JVM: Java Virtual Machine
 * API: Bundled java libraries that come with JDK.
-* APIs and JVM combined are called JRE.
 * Platform flow:
     1. Java source code converted to bytecode by java compiler.
     2. Bytecode runs on top of JVM.

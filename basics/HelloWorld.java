@@ -6,7 +6,6 @@ public class HelloWorld{
 
     // Method: Contains statements.
     // Return type: Void here
-    // Modifiers: Immediately to the left of return type. 
     // Order of modifier dosen't matter. static public, public static. 
 
     // Instance variable
@@ -18,7 +17,6 @@ public class HelloWorld{
     }
 
     // Starting point for JVM
-    // Rules for defining main method:
     // Modifiers for main should be public and static.
     // Should have return type void.
     // 'main' should be all lower case.
