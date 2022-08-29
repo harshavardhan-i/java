@@ -1,10 +1,7 @@
 // File name & Class name should be same
-// To run the code:
-    // javac fileName.java
-    // java fileName
+// To run the code: Java needs to be compiled & then bytecode runs on JVM
 public class HelloWorld{
 
-    // Method: Contains statements.
     // Return type: Void here
     // Order of modifier dosen't matter. static public, public static. 
 
