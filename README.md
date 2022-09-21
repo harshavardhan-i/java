@@ -1,7 +1,7 @@
 ## Java
 1. **Basics**
     * JDK, JRE, JVM
-    * Data Types
+    * Data Types, Primitive, Non-Primitive
     * Literals, Conversions
 1. **Objects**
     * Stacks & Heaps
