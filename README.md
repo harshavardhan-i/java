@@ -1,27 +1,27 @@
 ## Java
 1. **Basics**
-    * JDK, JRE, JVM
-    * Print and Scanner
+    * JDK, JRE, JVM, I/O
+2. **Variables**
     * Data Types, Primitive, Non-Primitive
     * Literals, Conversions 
-1. **Operators & Control flow**
+3. **Operators & Control flow**
     * Operator Precedence & enums
     * Control flow
-1. **Objects**
-    * Stacks & Heaps
-    * OOP, Objects, Primitive, Constructor
-    * Initialization Blocks
-1. **Classes**
+4. **Function & Methods**
+    * Functions
+    * Methods
+5. **Classes**
     * Static 
     * Scope, this, Stack, Frame
     * Garbage Collection
-1. **Packages**
+6. **Objects**
+    * Stacks & Heaps
+    * OOP, Objects, Primitive, Constructor
+    * Initialization Blocks
+7. **Packages**
     * Package 
     * Import
     * Classpath, JAR
-1. **Syntax**
-    * Conditional operators, Loops
-    * Labels, Enums
 1. **Strings**
     * Primitive behavior
     * Immutable
