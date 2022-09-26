@@ -24,3 +24,7 @@
 * For numbers greater than long or double use BigInteger and BigDecimal
 * Takes in strings as input
 * Normal operators like *,+,- don't work on them
+
+### Operator precedence
+ - Expression evaluated from left to right
+ - */% > +-

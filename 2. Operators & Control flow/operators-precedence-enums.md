@@ -1,8 +1,3 @@
-### Conditional Statements
-* if / else
-* switch statements
-    - Only takes literal or constants as case.
-
 ### Operators
 * Order of precedence
 * Bitshift operators:
@@ -21,14 +16,9 @@
     - ++x: pre increment, increments and then returns
 * Ternary operator - (expression) ? trueOption : falseOption;
 
-### loops
-* while
-* do while
-* for
-
-### labels
-* break - breaks the loop 
-* continue - continues the loop and ignores the code below for the current iteration
+### Operator precedence
+* Expressions evaluated from left to right
+* */% > +-
 
 ### Enums
 * Short for enumeration it is one of the labels.

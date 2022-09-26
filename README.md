@@ -1,8 +1,12 @@
 ## Java
 1. **Basics**
     * JDK, JRE, JVM
+    * Print and Scanner
     * Data Types, Primitive, Non-Primitive
-    * Literals, Conversions
+    * Literals, Conversions 
+1. **Operators & Control flow**
+    * Operator Precedence & enums
+    * Control flow
 1. **Objects**
     * Stacks & Heaps
     * OOP, Objects, Primitive, Constructor
